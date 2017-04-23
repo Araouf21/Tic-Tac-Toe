@@ -32,7 +32,7 @@ public class Main extends JFrame implements Runnable{
     }
     
     public Main() {
-        setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\RAOUF\\Desktop\\table.JPG"));
+        //setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Users\\RAOUF\\Desktop\\table.JPG"));
 
         setResizable(false);
         setSize( 207, 352 );
